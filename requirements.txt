@@ -1,0 +1,3 @@
+odmpy==0.80
+python-telegram-bot==20.4
+Requests==2.31.0
